@@ -1,6 +1,9 @@
 
 # 💫 About Me:
-Full Stack Engineer | Mobile Specialist | <br><br>I don’t just write code; I ship products that live on people’s devices.<br><br>With a background in computer science and data analytics, I’ve spent the last few years bridging the gap between high-performance mobile apps and scalable web architectures. I’m fascinated by how data moves through a system—from a sleek React frontend to a robust Node.js backend and into the hands of a user via Android.
+Full-Stack AI Engineer. I build AI that answers from sources, or doesn't answer.
+MyHealthApp: RAG health assistant, 45% fewer ungrounded answers across 10k+ test cases.
+MeaningIt: on-device OCR + speech translation, 60% faster, no cloud round-trip.
+Open to Full-Stack AI Engineer roles · nadheriachirag@gmail.com
 
 
 
