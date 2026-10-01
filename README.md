@@ -6,6 +6,11 @@ MeaningIt: on-device OCR + speech translation, 60% faster, no cloud round-trip.
 Open to Full-Stack AI Engineer roles · nadheriachirag@gmail.com
 
 
+### 🔝 Top Contributed Repo
+https://github.com/chirag902/MeaningIt
+---
+https://github.com/chirag902/My-Health-App
+
 
 
 ## 🌐 Socials:
@@ -21,9 +26,6 @@ Open to Full-Stack AI Engineer roles · nadheriachirag@gmail.com
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-https://github.com/chirag902/MeaningIt
----
-https://github.com/chirag902/My-Health-App
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
