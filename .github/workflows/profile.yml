@@ -1,25 +1,43 @@
-# Copy to .github/workflows/ci.yml in MyHealthApp and MeaningIt.
-# Delete any step whose npm script doesn't exist in that repo's package.json.
-name: CI
+name: Profile
 
 on:
   push:
     branches: [main]
-  pull_request:
+    paths: ["data/**", "scripts/**"]
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile
+  cancel-in-progress: true
 
 jobs:
-  quality:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 22
-          cache: npm
+      - name: Draw receipts card from data/evals.json
+        run: python3 scripts/render_report.py
 
-      - run: npm ci
-      - run: npx tsc --noEmit
-      - run: npm run lint --if-present
-      - run: npm test --if-present -- --run
-      - run: npm run build
+      - name: Refresh release status table
+        env:
+          PROFILE_USER: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/sync_shipped.py
+
+      - name: Commit only if something really changed
+        run: |
+          git add README.md assets
+          if git diff --cached --quiet; then
+            echo "Nothing to commit."
+          else
+            git config user.name  "profile-bot[bot]"
+            git config user.email "profile-bot@users.noreply.github.com"
+            git commit -m "chore(profile): sync card and release table"
+            git push
+          fi
