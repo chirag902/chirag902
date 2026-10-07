@@ -1,0 +1,65 @@
+# Repo setup checklist (do this before pushing the profile)
+
+A recruiter clicks from the profile into your repos within seconds. The profile promises polish, so the repos must deliver it.
+
+## 1. Repo "About" box (exact text)
+
+### My-Health-App
+- **Description:** Grounded RAG health assistant that answers from retrieved sources or declines. 45% fewer ungrounded answers across 10,000+ test cases.
+- **Website:** your live URL (not the Firebase Studio link)
+- **Topics:** `shipped` `rag` `retrieval-augmented-generation` `llm` `evaluation` `grounded-ai` `nextjs` `typescript` `firebase` `health-tech` `indexeddb`
+- **Remove these topics:** `diagnosis-prediction`, `doctor-appointment-management`, and anything that implies diagnosis. It contradicts your "declines instead of guessing" story.
+
+### MeaningIt
+- **Description:** On-device OCR + speech translation. 60% faster than a cloud OCR baseline, no cloud round-trip for recognition.
+- **Website:** your live URL or Play Store/APK link
+- **Topics:** `shipped` `ocr` `speech-recognition` `translation` `on-device-ml` `google-ml-kit` `nextjs` `typescript` `firebase` `multilingual`
+- **Remove these topics:** `tutorial-demos`, `chatbot-application`, `gamification-platform`, `grok-api` (unless Grok is genuinely part of this app).
+
+> Before you keep "no cloud round-trip for recognition": confirm what the "Translate" step uses. If translation calls a cloud API, the sentence is still true (it says recognition), but be ready to explain it in an interview.
+
+## 2. Fix inside both repo READMEs
+- [ ] Delete every `[bracket]` placeholder (`[60-second walkthrough]`, `[X]% fewer`, `[Live with 500+ users...]`, `**Stack note:** [...]`).
+- [ ] MyHealthApp: change "40% fewer" redundant calls to **60% fewer** (200 → 80).
+- [ ] MeaningIt: change "19% lower" drop-off to **19 percentage points lower** (32% → 13%).
+- [ ] MeaningIt: either add a measured row for "95%+ task completion" or delete the claim.
+- [ ] Add a live link or APK/Play Store link at the very top of each README.
+- [ ] MyHealthApp: add a "not medical advice" line and a short privacy note.
+- [ ] Fix typos in the About lines ("fell you out", "My another successful...").
+
+## 3. Visuals (the one thing that beats a wall of text)
+```
+docs/
+  hero.gif            # 5-8 s of the core flow, under 5 MB
+  architecture.png    # real data flow, not decoration
+  evaluation.png      # MyHealthApp: 20/100 -> 7/100, labeled "n=100"
+```
+Use clear file names (`hero.gif`, not `Screenshot_2026-10-04.png`). Put `hero.gif` directly under the title in each README.
+
+## 4. Releases (this fills the "Recently shipped" table)
+For each repo: **Releases → Draft a new release → tag `v1.0.0` → Publish.**
+Write 3 lines on what shipped. The profile table then shows real release data.
+
+## 5. CI
+Copy `repo-templates/ci.yml` to `.github/workflows/ci.yml` in both repos. Delete any step whose npm script doesn't exist. Once it passes, add the status badge to the repo README:
+
+```
+![CI](https://github.com/chirag902/REPO_NAME/actions/workflows/ci.yml/badge.svg)
+```
+
+## 6. Repo hygiene
+- [ ] Remove or `.gitignore` clutter: `eng.traineddata`, `.modified`, `patches/`, `.idx/`, `.vscode/` (keep only what the app needs to run).
+- [ ] Add a `LICENSE` (MIT is fine) only if you're comfortable with it.
+- [ ] Check no API keys or secrets are in history. If any, rotate them first.
+- [ ] Commit messages from now on: `feat:` `fix:` `perf:` `test:` `docs:` `ci:`. Do not rewrite old history.
+
+## 7. Profile repo
+1. Create a public repo named exactly `chirag902`.
+2. Upload everything in this folder (keep the folder structure). `repo-templates/` and this file are optional there.
+3. **Settings → Actions → General → Workflow permissions → Read and write.**
+4. **Actions → Profile → Run workflow** once. Confirm the green check and that the "Recently shipped" table fills in.
+5. Replace both `REPLACE_WITH_LIVE_URL` in `README.md`.
+6. Pin only `My-Health-App` and `MeaningIt`. Add a third pin only when it's equally strong.
+
+## 8. Final 60-second test
+Open your profile in a private window on your phone. Within 15 seconds, can you answer: what does he build, what is the proof, and how do I try it? If a link is dead, a number looks unsupported or a placeholder is visible, fix it before applying anywhere.
