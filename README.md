@@ -18,6 +18,7 @@ I build AI that answers from sources, or doesn't answer.
 ---
 
 
+
 ---
 
 ## Selected work
@@ -30,7 +31,7 @@ Health is the worst place for an LLM to guess. Every claim must trace to a retri
 - **60% fewer** redundant API calls (200 → 80) over 30 days of logs
 
 `Next.js` `Node.js` `Grok API` `vector search` `IndexedDB` `Firebase`  
-· [Architecture & case study](https://github.com/chirag902/My-Health-App)  
+**Status:** stabilizing for a public release, with known issues tracked in the repo · [Architecture & case study](https://github.com/chirag902/My-Health-App)  
 <sub>Informational tool, not medical advice.</sub>
 
 ### [MeaningIt](https://github.com/chirag902/MeaningIt) · on-device OCR + speech translation
@@ -40,7 +41,7 @@ Scan text and speak in one flow, with recognition running on the device instead 
 - **Mode-switch drop-off 32% → 13%** (−19 points), Firebase Analytics funnel
 
 `TypeScript` `Next.js` `Google ML Kit` `Firebase Cloud Messaging`  
- · [Architecture & case study](https://github.com/chirag902/MeaningIt)
+**Status:** stabilizing for a public release, with known issues tracked in the repo · [Architecture & case study](https://github.com/chirag902/MeaningIt)
 
 ---
 
@@ -63,6 +64,6 @@ Scan text and speak in one flow, with recognition running on the device instead 
 <details>
 <summary><b>How this profile works</b></summary>
 
-The card above isn't a screenshot or a third-party widget. [`data/evals.json`](data/evals.json) holds the raw before/after numbers, [`scripts/render_report.py`](scripts/render_report.py) (standard-library Python, no dependencies) draws light and dark SVGs, and a [GitHub Action](.github/workflows/profile.yml) redraws it whenever the data changes. The "Recently shipped" table is filled from my real GitHub Releases by [`scripts/sync_shipped.py`](scripts/sync_shipped.py). Percentages are computed from raw numbers, never typed by hand, and the bot only commits when something actually changed.
+The card above isn't a screenshot or a third-party widget. [`data/evals.json`](data/evals.json) holds the raw before/after numbers, [`scripts/render_report.py`](scripts/render_report.py) (standard-library Python, no dependencies) draws light and dark SVGs, and a [GitHub Action](.github/workflows/profile.yml) redraws it whenever the data changes. The "Release status" table is filled from my real GitHub Releases by [`scripts/sync_shipped.py`](scripts/sync_shipped.py). Percentages are computed from raw numbers, never typed by hand, and the bot only commits when something actually changed.
 
 </details>
