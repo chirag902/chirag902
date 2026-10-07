@@ -1,0 +1,233 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 410" width="880" height="410" role="img" aria-labelledby="t d">
+<title id="t">Every number here has a method behind it.</title><desc id="d">MyHealthApp: answered with no relevant source: 20 of 100 before, 7 of 100 after. Ungrounded answers (10,000+ test cases): 1,120 to 615. MyHealthApp p95 latency (50k requests): ~1,950 ms to &lt;800 ms. MeaningIt median latency vs cloud OCR: ~2.0 s to ~0.8 s.</desc>
+<rect x="0.5" y="0.5" width="879" height="409" rx="14" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="32" y="44" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" letter-spacing="2.5" fill="#59636e">RECEIPTS, NOT ADJECTIVES</text>
+<text x="32" y="74" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#1f2328">Every number here has a method behind it.</text>
+<text x="32" y="96" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#59636e">Redrawn automatically from data/evals.json by a GitHub Action. Edit the data, the card updates.</text>
+<line x1="430" y1="122" x2="430" y2="364" stroke="#d1d9e0"/>
+<text x="32" y="134" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#1f2328">MyHealthApp: answered with no relevant source</text>
+<text x="32" y="150" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#59636e">100 queries from QA logs, manual relevance judgment</text>
+<circle cx="37.5" cy="172" r="5.5" fill="#bc4c00"/>
+<circle cx="53.5" cy="172" r="5.5" fill="#bc4c00"/>
+<circle cx="69.5" cy="172" r="5.5" fill="#bc4c00"/>
+<circle cx="85.5" cy="172" r="5.5" fill="#bc4c00"/>
+<circle cx="101.5" cy="172" r="5.5" fill="#bc4c00"/>
+<circle cx="117.5" cy="172" r="5.5" fill="#bc4c00"/>
+<circle cx="133.5" cy="172" r="5.5" fill="#bc4c00"/>
+<circle cx="149.5" cy="172" r="5.5" fill="#bc4c00"/>
+<circle cx="165.5" cy="172" r="5.5" fill="#bc4c00"/>
+<circle cx="181.5" cy="172" r="5.5" fill="#bc4c00"/>
+<circle cx="37.5" cy="188" r="5.5" fill="#bc4c00"/>
+<circle cx="53.5" cy="188" r="5.5" fill="#bc4c00"/>
+<circle cx="69.5" cy="188" r="5.5" fill="#bc4c00"/>
+<circle cx="85.5" cy="188" r="5.5" fill="#bc4c00"/>
+<circle cx="101.5" cy="188" r="5.5" fill="#bc4c00"/>
+<circle cx="117.5" cy="188" r="5.5" fill="#bc4c00"/>
+<circle cx="133.5" cy="188" r="5.5" fill="#bc4c00"/>
+<circle cx="149.5" cy="188" r="5.5" fill="#bc4c00"/>
+<circle cx="165.5" cy="188" r="5.5" fill="#bc4c00"/>
+<circle cx="181.5" cy="188" r="5.5" fill="#bc4c00"/>
+<circle cx="37.5" cy="204" r="5.5" fill="#d1d9e0"/>
+<circle cx="53.5" cy="204" r="5.5" fill="#d1d9e0"/>
+<circle cx="69.5" cy="204" r="5.5" fill="#d1d9e0"/>
+<circle cx="85.5" cy="204" r="5.5" fill="#d1d9e0"/>
+<circle cx="101.5" cy="204" r="5.5" fill="#d1d9e0"/>
+<circle cx="117.5" cy="204" r="5.5" fill="#d1d9e0"/>
+<circle cx="133.5" cy="204" r="5.5" fill="#d1d9e0"/>
+<circle cx="149.5" cy="204" r="5.5" fill="#d1d9e0"/>
+<circle cx="165.5" cy="204" r="5.5" fill="#d1d9e0"/>
+<circle cx="181.5" cy="204" r="5.5" fill="#d1d9e0"/>
+<circle cx="37.5" cy="220" r="5.5" fill="#d1d9e0"/>
+<circle cx="53.5" cy="220" r="5.5" fill="#d1d9e0"/>
+<circle cx="69.5" cy="220" r="5.5" fill="#d1d9e0"/>
+<circle cx="85.5" cy="220" r="5.5" fill="#d1d9e0"/>
+<circle cx="101.5" cy="220" r="5.5" fill="#d1d9e0"/>
+<circle cx="117.5" cy="220" r="5.5" fill="#d1d9e0"/>
+<circle cx="133.5" cy="220" r="5.5" fill="#d1d9e0"/>
+<circle cx="149.5" cy="220" r="5.5" fill="#d1d9e0"/>
+<circle cx="165.5" cy="220" r="5.5" fill="#d1d9e0"/>
+<circle cx="181.5" cy="220" r="5.5" fill="#d1d9e0"/>
+<circle cx="37.5" cy="236" r="5.5" fill="#d1d9e0"/>
+<circle cx="53.5" cy="236" r="5.5" fill="#d1d9e0"/>
+<circle cx="69.5" cy="236" r="5.5" fill="#d1d9e0"/>
+<circle cx="85.5" cy="236" r="5.5" fill="#d1d9e0"/>
+<circle cx="101.5" cy="236" r="5.5" fill="#d1d9e0"/>
+<circle cx="117.5" cy="236" r="5.5" fill="#d1d9e0"/>
+<circle cx="133.5" cy="236" r="5.5" fill="#d1d9e0"/>
+<circle cx="149.5" cy="236" r="5.5" fill="#d1d9e0"/>
+<circle cx="165.5" cy="236" r="5.5" fill="#d1d9e0"/>
+<circle cx="181.5" cy="236" r="5.5" fill="#d1d9e0"/>
+<circle cx="37.5" cy="252" r="5.5" fill="#d1d9e0"/>
+<circle cx="53.5" cy="252" r="5.5" fill="#d1d9e0"/>
+<circle cx="69.5" cy="252" r="5.5" fill="#d1d9e0"/>
+<circle cx="85.5" cy="252" r="5.5" fill="#d1d9e0"/>
+<circle cx="101.5" cy="252" r="5.5" fill="#d1d9e0"/>
+<circle cx="117.5" cy="252" r="5.5" fill="#d1d9e0"/>
+<circle cx="133.5" cy="252" r="5.5" fill="#d1d9e0"/>
+<circle cx="149.5" cy="252" r="5.5" fill="#d1d9e0"/>
+<circle cx="165.5" cy="252" r="5.5" fill="#d1d9e0"/>
+<circle cx="181.5" cy="252" r="5.5" fill="#d1d9e0"/>
+<circle cx="37.5" cy="268" r="5.5" fill="#d1d9e0"/>
+<circle cx="53.5" cy="268" r="5.5" fill="#d1d9e0"/>
+<circle cx="69.5" cy="268" r="5.5" fill="#d1d9e0"/>
+<circle cx="85.5" cy="268" r="5.5" fill="#d1d9e0"/>
+<circle cx="101.5" cy="268" r="5.5" fill="#d1d9e0"/>
+<circle cx="117.5" cy="268" r="5.5" fill="#d1d9e0"/>
+<circle cx="133.5" cy="268" r="5.5" fill="#d1d9e0"/>
+<circle cx="149.5" cy="268" r="5.5" fill="#d1d9e0"/>
+<circle cx="165.5" cy="268" r="5.5" fill="#d1d9e0"/>
+<circle cx="181.5" cy="268" r="5.5" fill="#d1d9e0"/>
+<circle cx="37.5" cy="284" r="5.5" fill="#d1d9e0"/>
+<circle cx="53.5" cy="284" r="5.5" fill="#d1d9e0"/>
+<circle cx="69.5" cy="284" r="5.5" fill="#d1d9e0"/>
+<circle cx="85.5" cy="284" r="5.5" fill="#d1d9e0"/>
+<circle cx="101.5" cy="284" r="5.5" fill="#d1d9e0"/>
+<circle cx="117.5" cy="284" r="5.5" fill="#d1d9e0"/>
+<circle cx="133.5" cy="284" r="5.5" fill="#d1d9e0"/>
+<circle cx="149.5" cy="284" r="5.5" fill="#d1d9e0"/>
+<circle cx="165.5" cy="284" r="5.5" fill="#d1d9e0"/>
+<circle cx="181.5" cy="284" r="5.5" fill="#d1d9e0"/>
+<circle cx="37.5" cy="300" r="5.5" fill="#d1d9e0"/>
+<circle cx="53.5" cy="300" r="5.5" fill="#d1d9e0"/>
+<circle cx="69.5" cy="300" r="5.5" fill="#d1d9e0"/>
+<circle cx="85.5" cy="300" r="5.5" fill="#d1d9e0"/>
+<circle cx="101.5" cy="300" r="5.5" fill="#d1d9e0"/>
+<circle cx="117.5" cy="300" r="5.5" fill="#d1d9e0"/>
+<circle cx="133.5" cy="300" r="5.5" fill="#d1d9e0"/>
+<circle cx="149.5" cy="300" r="5.5" fill="#d1d9e0"/>
+<circle cx="165.5" cy="300" r="5.5" fill="#d1d9e0"/>
+<circle cx="181.5" cy="300" r="5.5" fill="#d1d9e0"/>
+<circle cx="37.5" cy="316" r="5.5" fill="#d1d9e0"/>
+<circle cx="53.5" cy="316" r="5.5" fill="#d1d9e0"/>
+<circle cx="69.5" cy="316" r="5.5" fill="#d1d9e0"/>
+<circle cx="85.5" cy="316" r="5.5" fill="#d1d9e0"/>
+<circle cx="101.5" cy="316" r="5.5" fill="#d1d9e0"/>
+<circle cx="117.5" cy="316" r="5.5" fill="#d1d9e0"/>
+<circle cx="133.5" cy="316" r="5.5" fill="#d1d9e0"/>
+<circle cx="149.5" cy="316" r="5.5" fill="#d1d9e0"/>
+<circle cx="165.5" cy="316" r="5.5" fill="#d1d9e0"/>
+<circle cx="181.5" cy="316" r="5.5" fill="#d1d9e0"/>
+<text x="32" y="352" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.5" fill="#59636e">BEFORE</text>
+<text x="32" y="378" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#bc4c00">20/100</text>
+<circle cx="237.5" cy="172" r="5.5" fill="#1a7f37"/>
+<circle cx="253.5" cy="172" r="5.5" fill="#1a7f37"/>
+<circle cx="269.5" cy="172" r="5.5" fill="#1a7f37"/>
+<circle cx="285.5" cy="172" r="5.5" fill="#1a7f37"/>
+<circle cx="301.5" cy="172" r="5.5" fill="#1a7f37"/>
+<circle cx="317.5" cy="172" r="5.5" fill="#1a7f37"/>
+<circle cx="333.5" cy="172" r="5.5" fill="#1a7f37"/>
+<circle cx="349.5" cy="172" r="5.5" fill="#d1d9e0"/>
+<circle cx="365.5" cy="172" r="5.5" fill="#d1d9e0"/>
+<circle cx="381.5" cy="172" r="5.5" fill="#d1d9e0"/>
+<circle cx="237.5" cy="188" r="5.5" fill="#d1d9e0"/>
+<circle cx="253.5" cy="188" r="5.5" fill="#d1d9e0"/>
+<circle cx="269.5" cy="188" r="5.5" fill="#d1d9e0"/>
+<circle cx="285.5" cy="188" r="5.5" fill="#d1d9e0"/>
+<circle cx="301.5" cy="188" r="5.5" fill="#d1d9e0"/>
+<circle cx="317.5" cy="188" r="5.5" fill="#d1d9e0"/>
+<circle cx="333.5" cy="188" r="5.5" fill="#d1d9e0"/>
+<circle cx="349.5" cy="188" r="5.5" fill="#d1d9e0"/>
+<circle cx="365.5" cy="188" r="5.5" fill="#d1d9e0"/>
+<circle cx="381.5" cy="188" r="5.5" fill="#d1d9e0"/>
+<circle cx="237.5" cy="204" r="5.5" fill="#d1d9e0"/>
+<circle cx="253.5" cy="204" r="5.5" fill="#d1d9e0"/>
+<circle cx="269.5" cy="204" r="5.5" fill="#d1d9e0"/>
+<circle cx="285.5" cy="204" r="5.5" fill="#d1d9e0"/>
+<circle cx="301.5" cy="204" r="5.5" fill="#d1d9e0"/>
+<circle cx="317.5" cy="204" r="5.5" fill="#d1d9e0"/>
+<circle cx="333.5" cy="204" r="5.5" fill="#d1d9e0"/>
+<circle cx="349.5" cy="204" r="5.5" fill="#d1d9e0"/>
+<circle cx="365.5" cy="204" r="5.5" fill="#d1d9e0"/>
+<circle cx="381.5" cy="204" r="5.5" fill="#d1d9e0"/>
+<circle cx="237.5" cy="220" r="5.5" fill="#d1d9e0"/>
+<circle cx="253.5" cy="220" r="5.5" fill="#d1d9e0"/>
+<circle cx="269.5" cy="220" r="5.5" fill="#d1d9e0"/>
+<circle cx="285.5" cy="220" r="5.5" fill="#d1d9e0"/>
+<circle cx="301.5" cy="220" r="5.5" fill="#d1d9e0"/>
+<circle cx="317.5" cy="220" r="5.5" fill="#d1d9e0"/>
+<circle cx="333.5" cy="220" r="5.5" fill="#d1d9e0"/>
+<circle cx="349.5" cy="220" r="5.5" fill="#d1d9e0"/>
+<circle cx="365.5" cy="220" r="5.5" fill="#d1d9e0"/>
+<circle cx="381.5" cy="220" r="5.5" fill="#d1d9e0"/>
+<circle cx="237.5" cy="236" r="5.5" fill="#d1d9e0"/>
+<circle cx="253.5" cy="236" r="5.5" fill="#d1d9e0"/>
+<circle cx="269.5" cy="236" r="5.5" fill="#d1d9e0"/>
+<circle cx="285.5" cy="236" r="5.5" fill="#d1d9e0"/>
+<circle cx="301.5" cy="236" r="5.5" fill="#d1d9e0"/>
+<circle cx="317.5" cy="236" r="5.5" fill="#d1d9e0"/>
+<circle cx="333.5" cy="236" r="5.5" fill="#d1d9e0"/>
+<circle cx="349.5" cy="236" r="5.5" fill="#d1d9e0"/>
+<circle cx="365.5" cy="236" r="5.5" fill="#d1d9e0"/>
+<circle cx="381.5" cy="236" r="5.5" fill="#d1d9e0"/>
+<circle cx="237.5" cy="252" r="5.5" fill="#d1d9e0"/>
+<circle cx="253.5" cy="252" r="5.5" fill="#d1d9e0"/>
+<circle cx="269.5" cy="252" r="5.5" fill="#d1d9e0"/>
+<circle cx="285.5" cy="252" r="5.5" fill="#d1d9e0"/>
+<circle cx="301.5" cy="252" r="5.5" fill="#d1d9e0"/>
+<circle cx="317.5" cy="252" r="5.5" fill="#d1d9e0"/>
+<circle cx="333.5" cy="252" r="5.5" fill="#d1d9e0"/>
+<circle cx="349.5" cy="252" r="5.5" fill="#d1d9e0"/>
+<circle cx="365.5" cy="252" r="5.5" fill="#d1d9e0"/>
+<circle cx="381.5" cy="252" r="5.5" fill="#d1d9e0"/>
+<circle cx="237.5" cy="268" r="5.5" fill="#d1d9e0"/>
+<circle cx="253.5" cy="268" r="5.5" fill="#d1d9e0"/>
+<circle cx="269.5" cy="268" r="5.5" fill="#d1d9e0"/>
+<circle cx="285.5" cy="268" r="5.5" fill="#d1d9e0"/>
+<circle cx="301.5" cy="268" r="5.5" fill="#d1d9e0"/>
+<circle cx="317.5" cy="268" r="5.5" fill="#d1d9e0"/>
+<circle cx="333.5" cy="268" r="5.5" fill="#d1d9e0"/>
+<circle cx="349.5" cy="268" r="5.5" fill="#d1d9e0"/>
+<circle cx="365.5" cy="268" r="5.5" fill="#d1d9e0"/>
+<circle cx="381.5" cy="268" r="5.5" fill="#d1d9e0"/>
+<circle cx="237.5" cy="284" r="5.5" fill="#d1d9e0"/>
+<circle cx="253.5" cy="284" r="5.5" fill="#d1d9e0"/>
+<circle cx="269.5" cy="284" r="5.5" fill="#d1d9e0"/>
+<circle cx="285.5" cy="284" r="5.5" fill="#d1d9e0"/>
+<circle cx="301.5" cy="284" r="5.5" fill="#d1d9e0"/>
+<circle cx="317.5" cy="284" r="5.5" fill="#d1d9e0"/>
+<circle cx="333.5" cy="284" r="5.5" fill="#d1d9e0"/>
+<circle cx="349.5" cy="284" r="5.5" fill="#d1d9e0"/>
+<circle cx="365.5" cy="284" r="5.5" fill="#d1d9e0"/>
+<circle cx="381.5" cy="284" r="5.5" fill="#d1d9e0"/>
+<circle cx="237.5" cy="300" r="5.5" fill="#d1d9e0"/>
+<circle cx="253.5" cy="300" r="5.5" fill="#d1d9e0"/>
+<circle cx="269.5" cy="300" r="5.5" fill="#d1d9e0"/>
+<circle cx="285.5" cy="300" r="5.5" fill="#d1d9e0"/>
+<circle cx="301.5" cy="300" r="5.5" fill="#d1d9e0"/>
+<circle cx="317.5" cy="300" r="5.5" fill="#d1d9e0"/>
+<circle cx="333.5" cy="300" r="5.5" fill="#d1d9e0"/>
+<circle cx="349.5" cy="300" r="5.5" fill="#d1d9e0"/>
+<circle cx="365.5" cy="300" r="5.5" fill="#d1d9e0"/>
+<circle cx="381.5" cy="300" r="5.5" fill="#d1d9e0"/>
+<circle cx="237.5" cy="316" r="5.5" fill="#d1d9e0"/>
+<circle cx="253.5" cy="316" r="5.5" fill="#d1d9e0"/>
+<circle cx="269.5" cy="316" r="5.5" fill="#d1d9e0"/>
+<circle cx="285.5" cy="316" r="5.5" fill="#d1d9e0"/>
+<circle cx="301.5" cy="316" r="5.5" fill="#d1d9e0"/>
+<circle cx="317.5" cy="316" r="5.5" fill="#d1d9e0"/>
+<circle cx="333.5" cy="316" r="5.5" fill="#d1d9e0"/>
+<circle cx="349.5" cy="316" r="5.5" fill="#d1d9e0"/>
+<circle cx="365.5" cy="316" r="5.5" fill="#d1d9e0"/>
+<circle cx="381.5" cy="316" r="5.5" fill="#d1d9e0"/>
+<text x="232" y="352" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.5" fill="#59636e">AFTER</text>
+<text x="232" y="378" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#1a7f37">7/100</text>
+<text x="456" y="134" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#1f2328">Ungrounded answers (10,000+ test cases)</text>
+<text x="848" y="160" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="700" fill="#1a7f37">−45%</text>
+<rect x="456" y="144" width="240" height="16" rx="3" fill="#8c959f"/>
+<text x="704" y="157" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#59636e">1,120</text>
+<rect x="456" y="166" width="131.8" height="16" rx="3" fill="#1a7f37"/>
+<text x="595.8" y="179" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="700" fill="#1f2328">615</text>
+<text x="456" y="214" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#1f2328">MyHealthApp p95 latency (50k requests)</text>
+<text x="848" y="240" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="700" fill="#1a7f37">−59%+</text>
+<rect x="456" y="224" width="240" height="16" rx="3" fill="#8c959f"/>
+<text x="704" y="237" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#59636e">~1,950 ms</text>
+<rect x="456" y="246" width="98.5" height="16" rx="3" fill="#1a7f37"/>
+<text x="562.5" y="259" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="700" fill="#1f2328">&lt;800 ms</text>
+<text x="456" y="294" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#1f2328">MeaningIt median latency vs cloud OCR</text>
+<text x="848" y="320" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="700" fill="#1a7f37">−60%</text>
+<rect x="456" y="304" width="240" height="16" rx="3" fill="#8c959f"/>
+<text x="704" y="317" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#59636e">~2.0 s</text>
+<rect x="456" y="326" width="96.0" height="16" rx="3" fill="#1a7f37"/>
+<text x="560.0" y="339" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="700" fill="#1f2328">~0.8 s</text>
+<text x="32" y="398" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#59636e">Methods and sample sizes are in each case study. The retention comparison was not randomized.</text>
+</svg>
