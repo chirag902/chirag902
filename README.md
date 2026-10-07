@@ -17,7 +17,10 @@ I build AI that answers from sources, or doesn't answer.
 
 ---
 
+## Release status
 
+<!--START_SECTION:shipped-->
+<!--END_SECTION:shipped-->
 
 ---
 
