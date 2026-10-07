@@ -3,7 +3,7 @@
 sync_shipped.py - fills the "Recently shipped" table in README.md from real GitHub data.
 
 Stdlib only. For every public, non-fork repo tagged with the topic `shipped`,
-it shows the latest GitHub Release (tag + date). If a repo has no release yet,
+it shows the latest GitHub Release (tag + date, pre-releases labeled as such). If a repo has no release yet,
 it says so honestly and falls back to the last push date.
 Nothing is invented and nothing is a live counter, so the file only changes
 when you actually ship something.
@@ -52,12 +52,14 @@ def build_table():
         return "_Tag a repo with the topic `shipped` and it appears here._"
     rows = ["| Project | Latest release | Updated |", "|---|---|---|"]
     for r in shipped:
-        rel = gh(f"/repos/{USER}/{r['name']}/releases/latest")
-        if rel:
-            tag = f"[{rel['tag_name']}]({rel['html_url']})"
+        rels = [x for x in (gh(f"/repos/{USER}/{r['name']}/releases", {"per_page": 5}) or []) if not x["draft"]]
+        if rels:
+            rel = rels[0]
+            note = " (pre-release)" if rel["prerelease"] else ""
+            tag = f"[{rel['tag_name']}]({rel['html_url']}){note}"
             when = day(rel.get("published_at") or r["pushed_at"])
         else:
-            tag, when = "no release yet", day(r["pushed_at"])
+            tag, when = "not released yet", day(r["pushed_at"])
         rows.append(f"| [{r['name']}]({r['html_url']}) | {tag} | {when} |")
     return "\n".join(rows)
 
