@@ -22,8 +22,8 @@ I build AI that answers from sources, or doesn't answer.
 <!--START_SECTION:shipped-->
 | Project | Latest release | Updated |
 |---|---|---|
+| [My-Health-App](https://github.com/chirag902/My-Health-App) | [v0.9.0](https://github.com/chirag902/My-Health-App/releases/tag/v0.9.0) (pre-release) | 08 Oct 2026 |
 | [MeaningIt](https://github.com/chirag902/MeaningIt) | not released yet | 07 Oct 2026 |
-| [My-Health-App](https://github.com/chirag902/My-Health-App) | not released yet | 07 Oct 2026 |
 <!--END_SECTION:shipped-->
 
 ---
